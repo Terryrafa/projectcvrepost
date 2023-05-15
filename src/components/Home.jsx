@@ -7,9 +7,9 @@ const Home = () => {
   return (
     <div name="home" className="h-screen w-full bg-[#ffffff] shadow-inner z-10">
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
-            <div className="flex flex-col justify-center h-auto">
-                <h2 className="text-7xl sm:text-7xl font-bold text-[#f4a33d] py-4 drop-shadow-lg">I'm Terry Davis  Raffael</h2>
-                <p className="py-4 max-w-md">
+            <div className="flex flex-col justify-center h-auto z-0">
+                <h2 className="text-4xl sm:text-7xl font-bold text-[#f4a33d] py-2 pt-14 drop-shadow-lg">I'm Terry Davis  Raffael</h2>
+                <p className="py-4 max-w-md ">
                     I'm a web designer with a passion for designing and developing websites.
                     I have 3 years of experience designing websites.
                     Curretlly, learning other langues other than html, css, php, and javascript.
