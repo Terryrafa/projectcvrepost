@@ -3,9 +3,10 @@ import HeroImage from "../assets/heroImage.png";
 import {MdKeyboardArrowRight} from 'react-icons/md'
 import {Link} from 'react-scroll'
 
+
 const Home = () => {
   return (
-    <div name="home" className="h-screen w-full bg-[#ffffff] shadow-inner z-10">
+    <div id="home" className="h-screen w-full bg-[#ffffff] shadow-inner z-10">
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
             <div className="flex flex-col justify-center h-auto z-0">
                 <h2 className="text-4xl sm:text-7xl font-bold text-[#f4a33d] py-4 pt-14 drop-shadow-lg selection:bg-[#ff785d] selection:text-white">I'm Terry Davis  Raffael</h2>
