@@ -15,16 +15,5 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,          
     "skipLibCheck": true,
-    "resolveExtensions": [
-      ".js",
-      ".jsx",
-      ".ts",
-      ".tsx",
-      ".json",
-      ".png",
-      ".jpg",
-      ".jpeg",
-      ".gif"
-    ]
   }
 }
